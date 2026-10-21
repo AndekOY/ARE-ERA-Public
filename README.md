@@ -18,4 +18,12 @@ The demonstrator illustrates how claims can be separated from supporting evidenc
 - [Demonstrator 01: Evidence Integrity and Provenance Claims](demonstrators/public-evidence-01/README.md)
 - [Copyright and rights notice](RIGHTS.md)
 
+## Archived release and citation
+
+- **GitHub release:** [v1.0.0](https://github.com/AndekOY/ARE-ERA-Public/releases/tag/v1.0.0)
+- **Zenodo record:** [ARE / ERA Public Documentation and Synthetic Evidence Demonstrator](https://zenodo.org/records/23535122)
+- **Version-specific DOI:** [10.5281/zenodo.23535122](https://doi.org/10.5281/zenodo.23535122)
+
+This DOI refers to the archived **v1.0.0 documentation and synthetic demonstrator**, not a validated software execution or an ANDEKS™ normative assessment. The GitHub release tag identifies the immutable publication snapshot; subsequent changes to `main` are not part of that release.
+
 **Rights:** Publicly readable, all rights reserved; no open-source code license or broad content-reuse license is granted. For professional inquiries, please send a direct message.
