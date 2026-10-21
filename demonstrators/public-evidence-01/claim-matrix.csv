@@ -1,0 +1,4 @@
+claim_id,synthetic_claim,synthetic_observation,missing_evidence,illustrative_result
+SYN-C01,Daily SHA-256 integrity chain,Method statement says digests are chained,Actual snapshot bytes; canonicalization; digest recomputation; independent anchor,UNESTABLISHED
+SYN-C02,Source-to-signal provenance,Sample metadata lists source and time fields,Authenticated original; transformations; custody records,UNESTABLISHED
+SYN-C03,Independent public verification,Statement mentions verification interface,Actual proof artifact; successful independent replay,UNESTABLISHED
