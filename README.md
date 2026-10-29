@@ -2,7 +2,7 @@
 
 **Public documentation | 2026-10-21**
 
-**ARE (ANDEKS Runtime Engine)** is the underlying technical engine. **ERA (Evidence Review and Assessment)** is an applied evidence-assessment system built on ARE. This repository contains selected documentation and a **synthetic methodology demonstrator**, not ARE source code or a runnable ERA distribution.
+**ARE (ANDEKS Runtime Engine)** is the underlying technical engine. **ERA (Evidence Readiness Assessment)** is an applied evidence-assessment system built on ARE. This repository contains selected documentation and a **synthetic methodology demonstrator**, not ARE source code or a runnable ERA distribution.
 
 The demonstrator illustrates how claims can be separated from supporting evidence, how missing verification steps are recorded, and why results must be bounded by the material actually available. It does **not** document an actual execution of ARE or ERA software, establish runtime performance or evaluate any identifiable vendor.
 
