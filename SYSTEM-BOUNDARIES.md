@@ -1,6 +1,6 @@
 # System and authority boundaries
 
-1. ARE (ANDEKS Runtime Engine) is the technical engine; ERA (Evidence Review and Assessment) is the applied evidence-assessment system built on ARE.
+1. ARE (ANDEKS Runtime Engine) is the technical engine; ERA (Evidence Readiness Assessment) is the applied evidence-assessment system built on ARE.
 2. ANDEKS™ is a distinct independent normative assessment system.
 3. An ERA research result is **not automatically** an ANDEKS™ normative conclusion, certification, or standing determination.
 4. Publication of a synthetic demonstration does not establish software execution, end-to-end provenance, or production readiness.
