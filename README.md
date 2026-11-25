@@ -4,6 +4,8 @@
 
 **ARE (ANDEKS Runtime Engine)** is the underlying technical engine. **ERA (Evidence Readiness Assessment)** is an applied evidence-assessment system built on ARE. This repository contains selected documentation and a **synthetic methodology demonstrator**, not ARE source code or a runnable ERA distribution.
 
+**Terminology clarification (25 November 2026):** The canonical expansion of ERA is **Evidence Readiness Assessment**, as established by the approved product decision dated 18 October 2026. Historical release artifacts retain their original published wording.
+
 The demonstrator illustrates how claims can be separated from supporting evidence, how missing verification steps are recorded, and why results must be bounded by the material actually available. It does **not** document an actual execution of ARE or ERA software, establish runtime performance or evaluate any identifiable vendor.
 
 **ANDEKS™** is a separate independent normative assessment system. An ERA research output does not automatically constitute an ANDEKS™ normative finding, certification or determination of standing.
